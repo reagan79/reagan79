@@ -1,0 +1,39 @@
+<DOCTYPE html>
+<html>
+<head>
+<h1> characteristics of websites</h1>
+<p>
+browsers<br>
+chrome<br>
+.its a multi tab interface control<br>
+.it has a customizable hompage<br>
+.it has a built in search bar<br>
+.has a fast page loading<br>
+mozila fire fox <br>
+.it has a fast page loading <br>
+.it has an inbuilt download manager<br>
+.it is backed by a gecko engine<br>
+safari<br>
+.has a smartdress bar <br>
+.has a full-screen video and  geolocation<br>
+.has an extended supports for HTMLS<br>
+.has a tabbed browsing<br>
+microsoft edge<br>
+.it implements cortana<br>
+.it helps in reading view<br>
+.it news feeds on start up page<br>
+.it has intergrated share parnel<br>
+.it has news feeds of the start up page<br>
+top browser<br>
+.it has a cross-platform availability<br>
+.anonymous usage of the browser<br>
+.does not reveal the ip of the source<br>
+.its portable<br>
+internetexplorer<br>
+.it has a smart serach suggestion<br>
+.it has an enhanced performance<br>
+.it has 33 language support<br>
+.it has a reader mmodd to view a webpage <br>
+</p>
+</body>
+</html>
